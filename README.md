@@ -1,4 +1,3 @@
-# Cognetix_StudentPerformanceDataset
 # Student Performance Dataset
 
 ## 📌 Objective
